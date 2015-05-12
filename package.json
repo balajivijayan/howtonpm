@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/balajivijayan/howtonpm/issues"
   },
-  "homepage": "https://github.com/balajivijayan/howtonpm#readme"
+  "homepage": "https://github.com/balajivijayan/howtonpm#readme",
+  "dependencies": {
+    "once": "^1.3.0"
+  }
 }
