@@ -1,0 +1,24 @@
+{
+  "name": "howtonpm",
+  "version": "1.0.0",
+  "description": "samplepackagedotjsonfile",
+  "main": "0",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/balajivijayan/howtonpm.git"
+  },
+  "keywords": [
+    "npm",
+    "howtonpm",
+    "node"
+  ],
+  "author": "Balaji Vijayan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/balajivijayan/howtonpm/issues"
+  },
+  "homepage": "https://github.com/balajivijayan/howtonpm#readme"
+}
